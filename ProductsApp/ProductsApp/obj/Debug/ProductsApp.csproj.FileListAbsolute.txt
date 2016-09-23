@@ -1,0 +1,17 @@
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\ProductsApp.dll
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\zh-Hant\System.Web.Http.resources.dll
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+D:\GitHub\DotNetWebAPI2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
